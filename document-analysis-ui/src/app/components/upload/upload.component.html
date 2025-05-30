@@ -1,0 +1,49 @@
+<header class="logo-header">
+  <img src="/logo.png" alt="Logo" class="logo-global" />
+</header>
+
+<div class="upload-container">
+  <h2>Upload Document</h2>
+
+  <input type="file" (change)="onFileSelected($event)" />
+  <button (click)="upload()" [disabled]="loading">
+    Upload & Analyze
+  </button>
+
+  <div *ngIf="loading" class="loading">Analyzing...</div>
+
+  <div *ngIf="response" class="results">
+    <div class="summary-header" *ngIf="response?.fileName">
+      <h3>{{ response.fileName }}</h3>
+    </div>
+    <div class="summaries-container">
+      <div class="summary-card summary-model1">
+        <h3>{{ response.model1Name }}</h3>
+        <ul class="stats">
+          <li><strong>Timp:</strong> {{ response.model1Stats.timeSeconds }} sec</li>
+          <li><strong>Lungime:</strong> {{ response.model1Stats.length }} caractere</li>
+          <li><strong>Cuvinte:</strong> {{ response.model1Stats.words }}</li>
+          <li><strong>Propoziții:</strong> {{ response.model1Stats.sentences }}</li>
+          <li><strong>Proporție:</strong> {{ response.model1Stats.ratio }}%</li>
+        </ul>
+        <p>{{ response.summaryModel1 }}</p>
+      </div>
+    
+      <div class="summary-card summary-model2">
+        <h3>{{ response.model2Name }}</h3>
+        <ul class="stats">
+          <li><strong>Timp:</strong> {{ response.model2Stats.timeSeconds }} sec</li>
+          <li><strong>Lungime:</strong> {{ response.model2Stats.length }} caractere</li>
+          <li><strong>Cuvinte:</strong> {{ response.model2Stats.words }}</li>
+          <li><strong>Propoziții:</strong> {{ response.model2Stats.sentences }}</li>
+          <li><strong>Proporție:</strong> {{ response.model2Stats.ratio }}%</li>
+        </ul>
+        <p>{{ response.summaryModel2 }}</p>
+
+      </div>
+    </div>
+    <div *ngIf="errorMessage" class="error-message">
+      {{ errorMessage }}
+    </div>
+  </div>
+</div>
