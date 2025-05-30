@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "DocumentAnalysis.Application/1.0.0": {
+        "dependencies": {
+          "DocumentAnalysis.Domain": "1.0.0"
+        },
+        "runtime": {
+          "DocumentAnalysis.Application.dll": {}
+        }
+      },
+      "DocumentAnalysis.Domain/1.0.0": {
+        "runtime": {
+          "DocumentAnalysis.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DocumentAnalysis.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DocumentAnalysis.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

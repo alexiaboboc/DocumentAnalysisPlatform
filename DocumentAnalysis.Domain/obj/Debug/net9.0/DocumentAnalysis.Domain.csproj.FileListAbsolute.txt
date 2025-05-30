@@ -1,0 +1,11 @@
+C:\Users\alexiaboboc\source\repos\DocumentAnalysisPlatform\DocumentAnalysis.Domain\bin\Debug\net9.0\DocumentAnalysis.Domain.deps.json
+C:\Users\alexiaboboc\source\repos\DocumentAnalysisPlatform\DocumentAnalysis.Domain\bin\Debug\net9.0\DocumentAnalysis.Domain.dll
+C:\Users\alexiaboboc\source\repos\DocumentAnalysisPlatform\DocumentAnalysis.Domain\bin\Debug\net9.0\DocumentAnalysis.Domain.pdb
+C:\Users\alexiaboboc\source\repos\DocumentAnalysisPlatform\DocumentAnalysis.Domain\obj\Debug\net9.0\DocumentAnalysis.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexiaboboc\source\repos\DocumentAnalysisPlatform\DocumentAnalysis.Domain\obj\Debug\net9.0\DocumentAnalysis.Domain.AssemblyInfoInputs.cache
+C:\Users\alexiaboboc\source\repos\DocumentAnalysisPlatform\DocumentAnalysis.Domain\obj\Debug\net9.0\DocumentAnalysis.Domain.AssemblyInfo.cs
+C:\Users\alexiaboboc\source\repos\DocumentAnalysisPlatform\DocumentAnalysis.Domain\obj\Debug\net9.0\DocumentAnalysis.Domain.csproj.CoreCompileInputs.cache
+C:\Users\alexiaboboc\source\repos\DocumentAnalysisPlatform\DocumentAnalysis.Domain\obj\Debug\net9.0\DocumentAnalysis.Domain.dll
+C:\Users\alexiaboboc\source\repos\DocumentAnalysisPlatform\DocumentAnalysis.Domain\obj\Debug\net9.0\refint\DocumentAnalysis.Domain.dll
+C:\Users\alexiaboboc\source\repos\DocumentAnalysisPlatform\DocumentAnalysis.Domain\obj\Debug\net9.0\DocumentAnalysis.Domain.pdb
+C:\Users\alexiaboboc\source\repos\DocumentAnalysisPlatform\DocumentAnalysis.Domain\obj\Debug\net9.0\ref\DocumentAnalysis.Domain.dll
