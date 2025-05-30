@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "loYwAlIrY+4=",
+  "success": true,
+  "projectFilePath": "/Volumes/[C] Windows 11/Users/alexiaboboc/source/repos/DocumentAnalysisPlatform/DocumentAnalysis.Infrastructure/DocumentAnalysis.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "/Users/alexiaboboc/.nuget/packages/pdfpig/0.1.11-alpha-20250407-24902/pdfpig.0.1.11-alpha-20250407-24902.nupkg.sha512",
+    "/Users/alexiaboboc/.nuget/packages/uglytoad.pdfpig/1.7.0-custom-5/uglytoad.pdfpig.1.7.0-custom-5.nupkg.sha512",
+    "/Users/alexiaboboc/.nuget/packages/uglytoad.pdfpig.core/1.7.0-custom-5/uglytoad.pdfpig.core.1.7.0-custom-5.nupkg.sha512",
+    "/Users/alexiaboboc/.nuget/packages/uglytoad.pdfpig.fonts/1.7.0-custom-5/uglytoad.pdfpig.fonts.1.7.0-custom-5.nupkg.sha512",
+    "/Users/alexiaboboc/.nuget/packages/uglytoad.pdfpig.tokenization/1.7.0-custom-5/uglytoad.pdfpig.tokenization.1.7.0-custom-5.nupkg.sha512",
+    "/Users/alexiaboboc/.nuget/packages/uglytoad.pdfpig.tokens/1.7.0-custom-5/uglytoad.pdfpig.tokens.1.7.0-custom-5.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+C:\Users\alexiaboboc\source\repos\DocumentAnalysisPlatform\DocumentAnalysis.Infrastructure\bin\Debug\net9.0\DocumentAnalysis.Infrastructure.deps.json
+C:\Users\alexiaboboc\source\repos\DocumentAnalysisPlatform\DocumentAnalysis.Infrastructure\bin\Debug\net9.0\DocumentAnalysis.Infrastructure.dll
+C:\Users\alexiaboboc\source\repos\DocumentAnalysisPlatform\DocumentAnalysis.Infrastructure\bin\Debug\net9.0\DocumentAnalysis.Infrastructure.pdb
+C:\Users\alexiaboboc\source\repos\DocumentAnalysisPlatform\DocumentAnalysis.Infrastructure\bin\Debug\net9.0\DocumentAnalysis.Domain.dll
+C:\Users\alexiaboboc\source\repos\DocumentAnalysisPlatform\DocumentAnalysis.Infrastructure\bin\Debug\net9.0\DocumentAnalysis.Domain.pdb
+C:\Users\alexiaboboc\source\repos\DocumentAnalysisPlatform\DocumentAnalysis.Infrastructure\obj\Debug\net9.0\DocumentAnalysis.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\alexiaboboc\source\repos\DocumentAnalysisPlatform\DocumentAnalysis.Infrastructure\obj\Debug\net9.0\DocumentAnalysis.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexiaboboc\source\repos\DocumentAnalysisPlatform\DocumentAnalysis.Infrastructure\obj\Debug\net9.0\DocumentAnalysis.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\alexiaboboc\source\repos\DocumentAnalysisPlatform\DocumentAnalysis.Infrastructure\obj\Debug\net9.0\DocumentAnalysis.Infrastructure.AssemblyInfo.cs
+C:\Users\alexiaboboc\source\repos\DocumentAnalysisPlatform\DocumentAnalysis.Infrastructure\obj\Debug\net9.0\DocumentAnalysis.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\alexiaboboc\source\repos\DocumentAnalysisPlatform\DocumentAnalysis.Infrastructure\obj\Debug\net9.0\Document.39BFF2DE.Up2Date
+C:\Users\alexiaboboc\source\repos\DocumentAnalysisPlatform\DocumentAnalysis.Infrastructure\obj\Debug\net9.0\DocumentAnalysis.Infrastructure.dll
+C:\Users\alexiaboboc\source\repos\DocumentAnalysisPlatform\DocumentAnalysis.Infrastructure\obj\Debug\net9.0\refint\DocumentAnalysis.Infrastructure.dll
+C:\Users\alexiaboboc\source\repos\DocumentAnalysisPlatform\DocumentAnalysis.Infrastructure\obj\Debug\net9.0\DocumentAnalysis.Infrastructure.pdb
+C:\Users\alexiaboboc\source\repos\DocumentAnalysisPlatform\DocumentAnalysis.Infrastructure\obj\Debug\net9.0\ref\DocumentAnalysis.Infrastructure.dll
