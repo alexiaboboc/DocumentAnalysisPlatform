@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "4NmHXR7Jvmef/9pNe3MkbiFebRL5PKWCEPlEVrTvjzs=",
+  "Source": "DocumentAnalysis.API",
+  "BasePath": "_content/DocumentAnalysis.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

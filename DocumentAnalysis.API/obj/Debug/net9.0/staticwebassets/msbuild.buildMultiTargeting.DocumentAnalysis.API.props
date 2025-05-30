@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DocumentAnalysis.API.props" />
+</Project>

@@ -1,0 +1,59 @@
+{
+  "version": 2,
+  "dgSpecHash": "bldyOpGJMVQ=",
+  "success": true,
+  "projectFilePath": "/Volumes/[C] Windows 11/Users/alexiaboboc/source/repos/DocumentAnalysisPlatform/DocumentAnalysis.API/DocumentAnalysis.API.csproj",
+  "expectedPackageFiles": [
+    "/Users/alexiaboboc/.nuget/packages/documentformat.openxml/3.3.0/documentformat.openxml.3.3.0.nupkg.sha512",
+    "/Users/alexiaboboc/.nuget/packages/documentformat.openxml.framework/3.3.0/documentformat.openxml.framework.3.3.0.nupkg.sha512",
+    "/Users/alexiaboboc/.nuget/packages/microsoft.aspnetcore.openapi/9.0.3/microsoft.aspnetcore.openapi.9.0.3.nupkg.sha512",
+    "/Users/alexiaboboc/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/alexiaboboc/.nuget/packages/microsoft.netcore.platforms/2.0.0/microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "/Users/alexiaboboc/.nuget/packages/microsoft.openapi/1.6.23/microsoft.openapi.1.6.23.nupkg.sha512",
+    "/Users/alexiaboboc/.nuget/packages/microsoft.win32.systemevents/4.5.0/microsoft.win32.systemevents.4.5.0.nupkg.sha512",
+    "/Users/alexiaboboc/.nuget/packages/pdfpig/0.1.11-alpha-20250407-24902/pdfpig.0.1.11-alpha-20250407-24902.nupkg.sha512",
+    "/Users/alexiaboboc/.nuget/packages/swashbuckle.aspnetcore/8.1.0/swashbuckle.aspnetcore.8.1.0.nupkg.sha512",
+    "/Users/alexiaboboc/.nuget/packages/swashbuckle.aspnetcore.swagger/8.1.0/swashbuckle.aspnetcore.swagger.8.1.0.nupkg.sha512",
+    "/Users/alexiaboboc/.nuget/packages/swashbuckle.aspnetcore.swaggergen/8.1.0/swashbuckle.aspnetcore.swaggergen.8.1.0.nupkg.sha512",
+    "/Users/alexiaboboc/.nuget/packages/swashbuckle.aspnetcore.swaggerui/8.1.0/swashbuckle.aspnetcore.swaggerui.8.1.0.nupkg.sha512",
+    "/Users/alexiaboboc/.nuget/packages/system.drawing.common/4.5.0/system.drawing.common.4.5.0.nupkg.sha512",
+    "/Users/alexiaboboc/.nuget/packages/system.io.packaging/9.0.4/system.io.packaging.9.0.4.nupkg.sha512",
+    "/Users/alexiaboboc/.nuget/packages/system.reflection.emit/4.7.0/system.reflection.emit.4.7.0.nupkg.sha512",
+    "/Users/alexiaboboc/.nuget/packages/tesseract/5.2.0/tesseract.5.2.0.nupkg.sha512",
+    "/Users/alexiaboboc/.nuget/packages/uglytoad.pdfpig/1.7.0-custom-5/uglytoad.pdfpig.1.7.0-custom-5.nupkg.sha512",
+    "/Users/alexiaboboc/.nuget/packages/uglytoad.pdfpig.core/1.7.0-custom-5/uglytoad.pdfpig.core.1.7.0-custom-5.nupkg.sha512",
+    "/Users/alexiaboboc/.nuget/packages/uglytoad.pdfpig.fonts/1.7.0-custom-5/uglytoad.pdfpig.fonts.1.7.0-custom-5.nupkg.sha512",
+    "/Users/alexiaboboc/.nuget/packages/uglytoad.pdfpig.tokenization/1.7.0-custom-5/uglytoad.pdfpig.tokenization.1.7.0-custom-5.nupkg.sha512",
+    "/Users/alexiaboboc/.nuget/packages/uglytoad.pdfpig.tokens/1.7.0-custom-5/uglytoad.pdfpig.tokens.1.7.0-custom-5.nupkg.sha512",
+    "/Users/alexiaboboc/.nuget/packages/xceed.document.net/1.6.19076.19550/xceed.document.net.1.6.19076.19550.nupkg.sha512",
+    "/Users/alexiaboboc/.nuget/packages/xceed.pdf/1.6.19076.19550/xceed.pdf.1.6.19076.19550.nupkg.sha512",
+    "/Users/alexiaboboc/.nuget/packages/xceed.words.net/1.6.19076.19550/xceed.words.net.1.6.19076.19550.nupkg.sha512",
+    "/Users/alexiaboboc/.nuget/packages/microsoft.netcore.app.runtime.linux-x64/9.0.0/microsoft.netcore.app.runtime.linux-x64.9.0.0.nupkg.sha512",
+    "/Users/alexiaboboc/.nuget/packages/microsoft.aspnetcore.app.runtime.linux-x64/9.0.0/microsoft.aspnetcore.app.runtime.linux-x64.9.0.0.nupkg.sha512",
+    "/Users/alexiaboboc/.nuget/packages/microsoft.netcore.app.host.linux-x64/9.0.0/microsoft.netcore.app.host.linux-x64.9.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "DocumentAnalysis.API depends on Xceed.Words.NET (>= 1.6.0) but Xceed.Words.NET 1.6.0 was not found. Xceed.Words.NET 1.6.19076.19550 was resolved instead.",
+      "libraryId": "Xceed.Words.NET",
+      "targetGraphs": [
+        "net9.0",
+        "net9.0/linux-x64"
+      ]
+    },
+    {
+      "code": "NU1608",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Detected package version outside of dependency constraint: Xceed.Document.NET 1.6.19076.19550 requires System.IO.Packaging (= 4.5.0) but version System.IO.Packaging 9.0.4 was resolved.",
+      "libraryId": "System.IO.Packaging",
+      "targetGraphs": [
+        "net9.0",
+        "net9.0/linux-x64"
+      ]
+    }
+  ]
+}
